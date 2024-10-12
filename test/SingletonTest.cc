@@ -1,5 +1,5 @@
 #include <iostream>
-#include "singleton//Singleton.h"
+#include "src/Singleton.h"
 
 class Foo
 {

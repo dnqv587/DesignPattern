@@ -2,6 +2,12 @@
 #include "base/noncopyable.h"
 #include <iostream>
 
+//***********************************************
+// name      : 工厂模式
+// brief     : 
+// attention : None
+//***********************************************
+
 class Base
 {
  public:
